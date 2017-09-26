@@ -1,2 +1,2 @@
 # StreamlineHackathon
-Streamline Hackathon 2nd place
+Streamline Hackathon: TEAM 5 (Martin Ruminy, Dieter Capek, Martin Meinhold) 
